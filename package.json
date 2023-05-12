@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vikas0071/NinjasNodeJsAuthentication.git"
+    "url": "https://github.com/vikas0071/https---github.com-vikas0071-NinjasNodeJsAuthentication.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vikas0071/NinjasNodeJsAuthentication.git"
+    "url": "https://github.com/vikas0071/https---github.com-vikas0071-NinjasNodeJsAuthentication.git"
   },
-  "homepage": "https://github.com/vikas0071/NinjasNodeJsAuthentication.git",
+  "homepage": "https://github.com/vikas0071/https---github.com-vikas0071-NinjasNodeJsAuthentication.git",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "connect-flash": "^0.1.1",
